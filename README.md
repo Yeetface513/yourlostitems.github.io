@@ -13,8 +13,8 @@ Welcome to the Lost Items project. This is a website that allows users to check 
 
 To install and run this project locally, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/rocketman12435/lostitems.git`
-2. Navigate to the project directory: `cd lostitems`
+1. Clone the repository: `git clone https://github.com/yourlostitems/yourlostitems.github.io.git`
+2. Navigate to the project directory: `cd yourlostitems.github.io`
 3. Install the dependencies: `npm install`
 4. Start the development server: `npm start`
 
