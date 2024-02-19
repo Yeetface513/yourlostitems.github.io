@@ -10,6 +10,8 @@
     --out: "Outfit", sans-serif;
     --rale: "Raleway", sans-serif;
     --opacity: #0000000f;
+    --hoverg: #70ff57;
+    --hoverr: #ff4242;
 }
 
 :root[data-bs-theme="dark"] {
@@ -21,10 +23,12 @@
     --out: "Outfit", sans-serif;
     --rale: "Raleway", sans-serif;
     --opacity: #ffffff0f;
+    --hoverg: #19a800;
+    --hoverr: #bd0000;
 }
 
 body {
-    transition-duration: 0.5s;
+    transition-duration: 0.1s;
     padding: 5px;
     background-color: var(--background);
     color: var(--text);
@@ -67,20 +71,20 @@ td {
 
 tr:nth-child(even) {
     background-color: var(--primary);
-    transition-duration: 0.5s;
+    transition-duration: 0.1s;
     background-color: var(--primary);
 }
 
 .navbar {
     overflow: hidden;
-    transition-duration: 0.4s;
+    transition-duration: 0.1s;
     font-family: var(--rale);
     backdrop-filter: blur(10px);
     position: sticky;
 }
 
 .navbar a {
-    transition-duration: 0.4s;
+    transition-duration: 0.1s;
     float: left;
     display: block;
     color: var(--text);
@@ -90,7 +94,7 @@ tr:nth-child(even) {
 }
 
 .navbar a:hover {
-    transition-duration: 0.4s;
+    transition-duration: 0.1s;
     color: var(--text);
 }
 
@@ -261,7 +265,7 @@ img {
 }
 
 .cell {
-    transition-duration: 0.4s;
+    transition-duration: 0.1s;
 }
 
 .cell1 {
@@ -269,8 +273,8 @@ img {
 }
 
 .cell1:hover {
-    transition-duration: 0.4s;
-    background-color: var(--secondary);
+    transition-duration: 0.1s;
+    background-color: var(--hoverg);
     color: var(--text);
 }
 
