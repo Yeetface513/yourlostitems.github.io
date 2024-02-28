@@ -269,7 +269,7 @@ img {
 }
 
 .cell {
-    transition-duration: 0.1s;
+    transition-duration: 0.25s;
 }
 
 .cell1 {
@@ -277,7 +277,7 @@ img {
 }
 
 .cell1:hover {
-    transition-duration: 0.1s;
+    transition-duration: 0.25s;
     background-color: var(--hoverg);
     color: var(--text);
 }
