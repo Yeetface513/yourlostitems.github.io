@@ -120,7 +120,8 @@ tr:nth-child(even) {
 
 .back {
     transition-duration: 0.5s;
-    float: left
+    float: left;
+    cursor: pointer;
 }
 
 .back:hover {
