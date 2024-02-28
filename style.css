@@ -22,7 +22,7 @@
     --accent: #0682b7;
     --out: "Outfit", sans-serif;
     --rale: "Raleway", sans-serif;
-    --opacity: #ffffff0f;
+    --opacity: #ffffff29;
     --hoverg: #19a800;
     --hoverr: #bd0000;
 }
@@ -591,18 +591,6 @@ th {
     height: 100px;
 }
 
-/*
-
-html {font-size: 3vw;}
-
-h1 {font-size: 10vw;}
-
-h2 {font-size: 7vw;}
-
-h3 {font-size: 4vw;}
-
-h4 {font-size: 1vw;}
-
-h5 {font-size: 1.333vw;}
-
-*/
+.carousel-indicators {
+    
+}
