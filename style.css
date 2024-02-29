@@ -87,7 +87,6 @@ tr:nth-child(even) {
     transition-duration: 0.1s;
     float: left;
     display: block;
-    color: var(--text);
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
@@ -95,11 +94,11 @@ tr:nth-child(even) {
 
 .navbar a:hover {
     transition-duration: 0.1s;
-    color: var(--text);
 }
 
 .navbar a.active {
-    background-color: var(--accent);
+    background-color: var(--secondary);
+    border-radius: 50px;
 }
 
 .content {
@@ -142,6 +141,7 @@ input {
     height: 70px;
     background-color: var(--background);
     font-family: var(--out);
+    box-sizing: border-box;
 }
 
 input[type="button"] {
@@ -199,15 +199,11 @@ input[type="password"] {
 
 input[type="text"]:focus {
     transition-duration: 0.5s;
-    width: 70%;
-    height: 50%;
     border: 7px solid var(--accent);
 }
 
 input[type="password"]:focus {
     transition-duration: 0.5s;
-    width: 70%;
-    height: 50%;
     border: 7px solid var(--secondary);
 }
 
@@ -592,4 +588,8 @@ th {
     background-color: var(--background);
     text-align: center;
     height: 100px;
+}
+
+.login{
+    color: white;
 }
