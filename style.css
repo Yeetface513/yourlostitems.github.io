@@ -595,3 +595,10 @@ th {
     background-position: center;
     height: 30%;
 }
+
+#text-botm {
+    text-align: center;
+    bottom: 0;
+    position: absolute;
+    left: 45%;
+}
