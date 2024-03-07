@@ -598,7 +598,7 @@ th {
    left: 0;
    bottom: 0;
    width: 100%;
-   background-image: imgs/"footer_background.png";
+   background-image: imgs/footer_background.png;
    color: black;
    text-align: center;
 }
