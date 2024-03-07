@@ -585,7 +585,6 @@ th {
 .footer {
    position: fixed;
    left: 0;
-   bottom: 0;
    width: 100%;
    mask-image: url("imgs/footer.svg");
    color: white;
@@ -593,13 +592,15 @@ th {
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
-    height: 70%;
+    height: 55%;
     background:var(--accent);
+    mask-size: cover;
+    mask-repeat: no-repeat;
 }
 
 #text-botm {
     text-align: center;
     bottom: 0;
     position: absolute;
-    left: 33%;
+    left: 1%;
 }
