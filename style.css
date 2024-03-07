@@ -579,17 +579,6 @@ th {
         border: 7px solid var(--secondary);
     }
 }
-
-.footer {
-    position: fixed;
-    left: 0;
-    bottom: 0;
-    width: 100%;
-    background-color: var(--background);
-    text-align: center;
-    height: 100px;
-}
-
 .login{
     color: white;
 }
@@ -598,7 +587,9 @@ th {
    left: 0;
    bottom: 0;
    width: 100%;
-   background-image: "imgs/footer_background.png";
+   background-image: url("imgs/footer_background.png");
    color: white;
    text-align: center;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
