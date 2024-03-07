@@ -592,8 +592,6 @@ th {
    text-align: center;
     background-repeat: no-repeat;
     background-size: cover;
+    background-position: center;
+    height: 30%;
 }
-
-
-
-
