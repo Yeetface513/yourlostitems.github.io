@@ -34,7 +34,7 @@
      inkscape:current-layer="visual" />
   <path
      d="M0 329L900 458L900 601L0 601Z"
-     fill="#0066FF"
+     fill="var(--accent)"
      stroke-linecap="round"
      stroke-linejoin="miter"
      id="path4"
