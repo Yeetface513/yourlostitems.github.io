@@ -587,13 +587,14 @@ th {
    left: 0;
    bottom: 0;
    width: 100%;
-   background-image: url("imgs/footer.svg");
+   mask-image: url("imgs/footer.svg");
    color: white;
    text-align: center;
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
     height: 70%;
+    background:var(--accent);
 }
 
 #text-botm {
