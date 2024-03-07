@@ -586,7 +586,7 @@ th {
    position: fixed;
    left: 0;
    width: 100%;
-   background-image: url("imgs/footer.svg");
+   background-image: "imgs/footer.svg";
    color: white;
    text-align: center;
     background-repeat: no-repeat;
