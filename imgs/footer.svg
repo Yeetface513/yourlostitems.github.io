@@ -38,5 +38,5 @@
      stroke-linecap="round"
      stroke-linejoin="miter"
      id="path4"
-     style="fill:#0000ff" />
+     style="fill:var(--accent)" />
 </svg>
