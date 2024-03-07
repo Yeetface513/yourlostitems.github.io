@@ -593,3 +593,26 @@ th {
     background-repeat: no-repeat;
     background-size: cover;
 }
+
+
+#path_1{
+    fill:var(--background);
+}
+
+#path_2{
+    fill:var(--primary);
+}
+#path_3{
+    fill:var(--secondary);
+}
+
+#path_4{
+    fill:var(--accent);
+}
+#path_5{
+    fill:var(--secondary);
+}
+
+#path_6{
+    fill:var(--primary);
+}
