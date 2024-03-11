@@ -586,7 +586,7 @@ th {
    position: fixed;
    left: 0;
    width: 100%;
-   background-image: "imgs/footer.svg";
+   mask-image: url("imgs/footer.svg");
    color: white;
    text-align: center;
     background-repeat: no-repeat;
@@ -596,7 +596,6 @@ th {
     background:var(--accent);
     mask-size: cover;
     mask-repeat: no-repeat;
-    vertical-align:bottom;
 }
 
 #text-botm {
