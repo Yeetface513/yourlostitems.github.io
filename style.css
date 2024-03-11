@@ -583,24 +583,17 @@ th {
     color: white;
 }
 .footer {
-   position: fixed;
-   left: 0;
-   width: 100%;
-   mask-image: url("imgs/footer.svg");
-   color: white;
-   text-align: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-position: center;
-    height: 55%;
-    background:var(--accent);
-    mask-size: cover;
-    mask-repeat: no-repeat;
-}
-
-#text-botm {
-    text-align: center;
     bottom: 0;
     position: absolute;
-    left: 1%;
+    left: 0%;
+    width: 100%;
+    mask-image: url(imgs/footer.svg);
+    color: white;
+    height: 63%;
+    background: var(--accent);
+    mask-size: cover;
+    mask-repeat: no-repeat;
+    display: flex;
+    place-items: end;
+    place-content: center;
 }
