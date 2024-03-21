@@ -18,7 +18,7 @@
     <a href="../" class="namey" id="left"><em>Lostitems</em></a>
     <h1 id="abouty"><em>Log in:</em></h1>
 
-    <form name="Form" id = "loginForm" action="../catalogue/">
+    <form name="Form" action="../catalogue/">
       <input
         type="text"
         placeholder="School username"
@@ -56,9 +56,7 @@
         function validate() {
             var x = document.getElementById('username');
             var y = document.getElementById('pd');
-
-
-  
+            //Is username field filled out?
             if (x.value == "") {
                 x.style.borderColor = "red";
                 alert("Username must be filled out");
