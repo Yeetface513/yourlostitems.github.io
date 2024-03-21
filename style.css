@@ -594,3 +594,8 @@ th {
     place-content: center;
     flex-direction: column;
 }
+
+#face{
+    display: block;
+    transform: rotate(90deg);
+}
