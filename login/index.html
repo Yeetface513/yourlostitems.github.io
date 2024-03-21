@@ -54,16 +54,9 @@
         }
 
         function validate() {
-          var input = document.getElementById('subbutton');
             var x = document.getElementById('username');
             var y = document.getElementById('pd');
-            input.addEventListener("keypress", function(event) 
-            //Is username field filled out?
-            if (event.key === "Enter") {
-              // Cancel the default action, if needed
-              event.preventDefault();
-              // Trigger the button element with a click
-              document.getElementById("subbutton").click();
+            
             if (x.value == "") {
                 x.style.borderColor = "red";
                 alert("Username must be filled out");
