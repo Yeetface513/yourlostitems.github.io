@@ -593,12 +593,12 @@ th {
     background-size: 100% 90%;
 }
 
-#face{
+#face {
     display: block;
     transform: rotate(90deg);
 }
 
-.footer{
+.footer {
     bottom: 0;
     position: absolute;
     left: 0%;
