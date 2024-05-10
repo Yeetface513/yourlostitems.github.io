@@ -588,7 +588,7 @@ th {
     -webkit-box-decoration-break: clone; 
     box-decoration-break: clone; 
     background-repeat: no-repeat; 
-    background-image: radial-gradient(var(--primary), #FF0000); 
+    background-image: linear-gradient(var(--primary), var(--secondary)); 
     background-position: bottom; 
     background-size: 100% 90%;
 }
