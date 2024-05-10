@@ -603,5 +603,6 @@ th {
     position: absolute;
     left: 0%;
     width: 100%;
-    background-color: var(--accent);
+    outline: var(--accent);
+    border-radius: 2rem;
 }
