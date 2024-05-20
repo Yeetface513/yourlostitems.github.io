@@ -591,6 +591,7 @@ th {
     background-image: linear-gradient(var(--primary), var(--secondary)); 
     background-position: bottom; 
     background-size: 100% 90%;
+    box-shadow: 10px 10px 5px 0px rgba(0, 0, 0, 0.5);
 }
 
 #face {
