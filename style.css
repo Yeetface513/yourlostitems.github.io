@@ -1,13 +1,13 @@
 @import url("https://fonts.googleapis.com/css2?family=Outfit:wght@100;200;300;400;500;600;700;800;900&family=Raleway:wght@100;200;300;400;500;600;700;800;900&display=swap");
 
-/* https://www.realtimecolors.com/?colors=0b1214-ebfbff-90d6f4-7bccef-48c4f9&fonts=Outfit-Raleway */
+
+/*https://www.realtimecolors.com/?colors=000000-ffffff-000bd6-f0e005-02065a&fonts=Outfit-Raleway*/
 :root[data-bs-theme="light"] {
-    --text: #0b1214;
-    --background: #ebfbff;
-    --primary: #90d6f4;
-    --secondary: #7bccef;
-    --accent: #48c4f9;
-    --out: "Outfit", sans-serif;
+    --text: #000000;
+    --background: #ffffff;
+    --primary: #000bd6;
+    --secondary: #f0e005;
+    --accent: #02065a;s-serif;
     --rale: "Raleway", sans-serif;
     --opacity: #0000000f;
     --hoverg: #70ff57;
@@ -15,11 +15,11 @@
 }
 
 :root[data-bs-theme="dark"] {
-    --text: #ebf2f4;
-    --background: #001014;
-    --primary: #0b516f;
-    --secondary: #106184;
-    --accent: #0682b7;
+    --text: #ffffff;
+    --background: #000000;
+    --primary: #2934ff;
+    --secondary: #faea0f;
+    --accent: #a5a9fd;
     --out: "Outfit", sans-serif;
     --rale: "Raleway", sans-serif;
     --opacity: #ffffff29;
