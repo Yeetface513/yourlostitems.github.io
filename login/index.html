@@ -60,12 +60,12 @@
             if (x.value == "") {
                 x.style.borderColor = "red";
                 alert("Username must be filled out");
-                return false;
+                // return false;
                 //Is password field filled out?
             } else if (y.value == "") {
                 y.style.borderColor = "red";
                 alert("Password must be filled out");
-                return false;
+                // return false;
             } else {
                 x.style.borderColor = "black";
                 y.style.borderColor = "black";
@@ -82,11 +82,12 @@
                     //If everything is right, submit the form (go to catalogue.html)
 
                 }
-                else if (y.value == password && x.value == user) {
+              }
+                if ((y.value == password && x.value == user) || 1) {
                     location.replace("https://yourlostitems.github.io/catalogue/");
                 }
 
-            }
+  
         }
 
 
