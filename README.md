@@ -41,7 +41,7 @@ This project utilizes the following technologies:
 We have the following plans for future development:
 
 - Allow users to upload images of lost items.
-- add an admin dashboard
+- Add a password-protected admin dashboard
 - Improve the user interface and overall design of the website.
 - Enhance the administrator dashboard with more features.
 
@@ -55,4 +55,4 @@ We welcome contributions from the community. If you would like to contribute to 
 
 ## Code of Conduct
 
-We expect all contributors and users of this project to adhere to our [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md). Please read it to understand our community standards.
+We expect all contributors and users of this project to adhere to our [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md). Please read it to understand our community standards and practices.
