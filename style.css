@@ -609,6 +609,6 @@ th {
 }
 
 .rainbow{
-    background-image: conic-gradient(in hsl longer hue, red, blue);
+    background-image: conic-gradient(in hsl longer hue, red, red);
     color: white;
 }
