@@ -41,7 +41,7 @@ This project utilizes the following technologies to enhance the capabilities of 
 We have the following plans for future development:
 
 - Allow users to upload images of lost items.
-- Add a password-protected admin dashboard
+- Add a password-protected admin dashboard (this will allow processing of item requests).
 - Improve the user interface and overall design of the website.
 - Enhance the administrator dashboard with more features.
 
