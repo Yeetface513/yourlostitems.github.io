@@ -1,7 +1,5 @@
 # Contributor Covenant Code of Conduct
 
-# Contributor Covenant Code of Conduct
-
 ## Our Pledge
 
 We as members, contributors, and leaders pledge to make participation in our
@@ -12,7 +10,7 @@ nationality, personal appearance, race, religion, or sexual identity
 and orientation.
 
 We pledge to act and interact in ways that contribute to an open, welcoming,
-diverse, inclusive, and healthy community.
+diverse, inclusive, vibrant and healthy community.
 
 ## Our Standards
 
@@ -62,11 +60,11 @@ representative at an online or offline event.
 
 Instances of abusive, harassing, or otherwise unacceptable behavior may be
 reported to the community leaders responsible for enforcement at
-rocketman12435.
-All complaints will be reviewed and investigated promptly and fairly.
+Yeetface513.
+All complaints will be reviewed and investigated promptly and fairly through our beurocracy free system of immediate punishment without investigation.
 
 All community leaders are obligated to respect the privacy and security of the
-reporter of any incident.
+reporter of any incident by publishing their full name and adress in a blog post.
 
 ## Enforcement Guidelines
 
