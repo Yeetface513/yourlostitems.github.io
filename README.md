@@ -56,3 +56,32 @@ We welcome contributions from the community. If you would like to contribute to 
 ## Code of Conduct
 
 We expect all contributors and users of this project to adhere to our [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md). Please read it to understand our community standards and practices.
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=thisiscoding1234&theme=solarized-dark&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=thisiscoding1234&theme=solarized-light&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage">
+  <img alt="GitHub statistics!" src="https://github-readme-stats.vercel.app/api?username=thisiscoding1234&theme=transparent&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage">
+</picture>
+
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=thisiscoding1234&theme=solarized-dark&size_weight=0.5&count_weight=0.5&layout=donut">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=thisiscoding1234&theme=solarized-light&size_weight=0.5&count_weight=0.5&layout=donut">
+  <img alt="GitHub statistics!" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thisiscoding1234&theme=transparent&size_weight=0.5&count_weight=0.5&layout=donut">
+</picture>
+
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=thisiscoding1234&theme=solarized-dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com?user=thisiscoding1234&theme=solarized-light">
+  <img alt="GitHub streak!" src="https://github-readme-streak-stats.herokuapp.com?user=thisiscoding1234&transparent&hide_border=true">
+</picture>
+
+<br/>
+
+<picture>
+  <source srcset="https://github-profile-trophy.vercel.app/?username=thisiscoding1234&no-bg=true&no-frame=true&row=3&column=3">
+  <img scr="https://github-profile-trophy.vercel.app/?username=thisiscoding1234&no-bg=true&no-frame=true&row=3&column=3">
+</picture>
