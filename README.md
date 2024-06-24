@@ -1,4 +1,4 @@
-# Lost Items
+# Lost Items!
 
 Welcome to the Lost Items project. This is a website that allows users to check their lost items online. If a user finds an item that they have lost, they can press the claim button to request the aforementioned item. This request will be sent to the administrators of the site for processing.
 
