@@ -26,11 +26,11 @@ To use the Lost Items Finder website, follow these steps:
 2. Browse through the lost items in the catalog.
 3. If you find an item you've lost, press the claim button to request it.
 4. Login to your account to be able to claim items.
-5. Administrators can approve or reject item requests through the dashboard.
+5. Administrators can approve or reject your item request(s) through the dashboard.
 
 ## Technologies Used
 
-This project utilizes the following technologies:
+This project utilizes the following technologies to enhance the capabilities of the website:
 
 - HTML
 - CSS
@@ -47,11 +47,11 @@ We have the following plans for future development:
 
 ## Support
 
-If you have any questions or need assistance with the Lost Items Finder project, please make an issue on this repository
+If you have any questions or need assistance with the Lost Items Finder project, please make an issue on this repository and we will try our best to fix it. We are commited to supporting our customers no matter what and we hope to foster a vibrant and active community around our excellent product.
 
 ## Contributing
 
-We welcome contributions from the community. If you would like to contribute to this project, please follow the guidelines outlined in our [CONTRIBUTING.md](CONTRIBUTING.md) file.
+We welcome contributions from the community. If you would like to contribute to this project, please follow the guidelines outlined in our [CONTRIBUTING.md](CONTRIBUTING.md) file. As above, we hope to foster a vibrant and active community around our excellent product.
 
 ## Code of Conduct
 
