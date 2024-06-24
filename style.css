@@ -1,4 +1,4 @@
-@import url("https://fonts.googleapis.com/css2?family=Outfit:wght@100;200;300;400;500;600;700;800;900&family=Raleway:wght@100;200;300;400;500;600;700;800;900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@100..900&family=Yarndings+20+Charted&display=swap");
 
 /* https://www.realtimecolors.com/?colors=000000-ffffff-90d6f4-7bccef-48c4f9&fonts=Outfit-Raleway */
 :root[data-bs-theme="light"] {
@@ -7,8 +7,8 @@
     --primary: #90d6f4;
     --secondary: #7bccef;
     --accent: #48c4f9;
-    --out: "Outfit", sans-serif;
-    --rale: "Raleway", sans-serif;
+    --out: "Yarndings 20 Charted", system-ui;
+    --rale: "Noto Sans JP", sans-serif;
     --opacity: #0000000f;
     --hoverg: #70ff57;
     --hoverr: #ff4242;
