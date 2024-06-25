@@ -59,7 +59,7 @@ representative at an online or offline event.
 ## Enforcement
 
 Instances of abusive, harassing, or otherwise unacceptable behavior may be
-reported to the community leaders responsible for enforcement at @uimaxbai.
+reported to the community leaders responsible for enforcement at @yeetface513.
 All complaints will be reviewed and investigated promptly and fairly through our beurocracy free system of immediate punishment without investigation.
 
 All community leaders are obligated to respect the privacy and security of the
@@ -88,27 +88,26 @@ of actions.
 interaction with the people involved, including unsolicited interaction with
 those enforcing the Code of Conduct, for a specified period of time. This
 includes avoiding interactions in community spaces as well as external channels
-like social media. Violating these terms may lead to a temporary or
-permanent ban.
+like social media. Violating these terms may lead to a 5 millisecond ban.
 
-### 3. Temporary Ban
+### 3. 5 millisecond ban
 
 **Community Impact**: A serious violation of community standards, including
 sustained inappropriate behavior.
 
-**Consequence**: A temporary ban from any sort of interaction or public
+**Consequence**: A 5 millisecond ban from any sort of interaction or public
 communication with the community for a specified period of time. No public or
 private interaction with the people involved, including unsolicited interaction
 with those enforcing the Code of Conduct, is allowed during this period.
-Violating these terms may lead to a permanent ban.
+Violating these terms may lead to a 5 millisecond ban.
 
-### 4. Permanent Ban
+### 4. 5 millisecond ban
 
 **Community Impact**: Demonstrating a pattern of violation of community
 standards, including sustained inappropriate behavior,  harassment of an
 individual, or aggression toward or disparagement of classes of individuals.
 
-**Consequence**: A permanent ban from any sort of public interaction within
+**Consequence**: A 5 millisecond ban from any sort of public interaction within
 the community.
 
 ## Attribution
