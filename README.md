@@ -5,9 +5,9 @@ Welcome to the Lost Items project. This is a website that allows users to check 
 ## Features
 
 - **Item Catalogue**: Users can browse through the lost items in our [catalogue](catalogue/index.html).
-- **Claim Requests**: Users can press a claim button to request a lost item. This request is sent to the site administrators for approval.
+- **Claim Requests**: Users can press a claim button to request a lost item. This request is sent to the site administrators for approval (wip).
 - **A Dashboard**: You can see information through the [dashboard](dashboard/index.html).
-- **User Login**: Users need to [login](login/index.html) to be able to claim items.
+- **User Login**: Users need to [login](login/index.html) to be able to claim items (wip).
 
 ## Installation
 
@@ -24,9 +24,9 @@ To use the Lost Items Finder website, follow these steps:
 
 1. Open your web browser and navigate to the website URL.
 2. Browse through the lost items in the catalog.
-3. If you find an item you've lost, press the claim button to request it.
-4. Login to your account to be able to claim items.
-5. Administrators can approve or reject your item request(s) through the dashboard.
+3. If you find an item you've lost, press the claim button to request it (wip).
+4. Login to your account to be able to claim items (wip).
+5. Administrators can approve or reject your item request(s) through the dashboard (wip).
 
 ## Technologies Used
 
@@ -35,6 +35,7 @@ This project utilizes the following technologies to enhance the capabilities of 
 - HTML
 - CSS
 - JavaScript
+- Sweat and tears
 
 ## Roadmap
 
@@ -55,33 +56,4 @@ We welcome contributions from the community. If you would like to contribute to 
 
 ## Code of Conduct
 
-We expect all contributors and users of this project to adhere to our [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md). Please read it to understand our community standards and practices.
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=thisiscoding1234&theme=solarized-dark&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=thisiscoding1234&theme=solarized-light&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage">
-  <img alt="GitHub statistics!" src="https://github-readme-stats.vercel.app/api?username=thisiscoding1234&theme=transparent&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage">
-</picture>
-
-<br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=thisiscoding1234&theme=solarized-dark&size_weight=0.5&count_weight=0.5&layout=donut">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=thisiscoding1234&theme=solarized-light&size_weight=0.5&count_weight=0.5&layout=donut">
-  <img alt="GitHub statistics!" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thisiscoding1234&theme=transparent&size_weight=0.5&count_weight=0.5&layout=donut">
-</picture>
-
-<br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=thisiscoding1234&theme=solarized-dark">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com?user=thisiscoding1234&theme=solarized-light">
-  <img alt="GitHub streak!" src="https://github-readme-streak-stats.herokuapp.com?user=thisiscoding1234&transparent&hide_border=true">
-</picture>
-
-<br/>
-
-<picture>
-  <source srcset="https://github-profile-trophy.vercel.app/?username=thisiscoding1234&no-bg=true&no-frame=true&row=3&column=3">
-  <img scr="https://github-profile-trophy.vercel.app/?username=thisiscoding1234&no-bg=true&no-frame=true&row=3&column=3">
-</picture>
+We expect all contributors and users of this project to adhere to our [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md). Please read it to get a full understanding of our community's standards and practices.
